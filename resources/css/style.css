@@ -8,7 +8,7 @@ h2 {
 }
 h3 {
   font-size: 23px;
-  font-weight: bold;
+  font-weight: bolder;
 }
 .mainNav {
   text-decoration: underline;
@@ -43,4 +43,13 @@ color: white;
 }
 .bottom {
   text-align: center;
+}
+.footer {
+  color: white;
+  background-color: dimgray;
+  font-weight: bold;
+}
+.btmNav {
+  color: white;
+  font-weight: bold;
 }
