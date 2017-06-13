@@ -10,12 +10,15 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+.mainNav {
+  text-decoration: underline;
+}
 #mainTitle {
   font-size: 70px
   font-weight: bold;
   color: white;
 }
-.mainNav {
+.topNav {
   font-size: 18px;
   color: white;
 }
@@ -23,4 +26,7 @@ h3 {
 background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
 text-align: center;
 color: white;
+}
+.main {
+  text-align: center;
 }
